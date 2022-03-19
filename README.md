@@ -6,6 +6,6 @@ Web 3.0 and crypto... What future for the Internet? The Internet was born in the
 
 -> Full Essay on FairDrive (pdf) : d463c479771aaaac5ba4f8ed063c158bd9125804ec15128a455f0e392ebce0f01647651354
 https://gateway.fairdatasociety.org/bzz/b2419cfe300da85f420cac286c73aa59c65b6c69d06edc4ea6e66827ca66cedd
-https://gateway.ethswarm.org/access/d54c9152a0bccd63b794d421a01612e9b4786409fa52ca099a7426c47fef9486
+https://gateway.ethswarm.org/access/17771b67746bdf8e1e31847b510b15ec8b251071a3b3f2335f628207b5591ed0
 
 Open Source Licence : MIT License.
