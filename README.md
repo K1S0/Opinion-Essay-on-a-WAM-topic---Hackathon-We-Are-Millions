@@ -1,4 +1,4 @@
-# WAM Essay
+# We Are Millions - Essay
 <i>We Are Millions is bringing together various communities to interact and network, to learn and to drive change. The idea extends further than just the event.
 This essay provide a view into some topic covered by WAM.</i>
 
